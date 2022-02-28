@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="alle" size="50.000000 36.909451" />
+    <ImageTarget name="bewerbung" size="50.000000 22.510374" />
+    <ImageTarget name="studienverlauf" size="50.000000 22.557173" />
+    <ImageTarget name="perspektiven" size="50.000000 23.251028" />
+    <ImageTarget name="internationalitaet" size="50.000000 22.463768" />
+    <ImageTarget name="projekte" size="50.000000 22.813688" />
+    <ImageTarget name="uebersicht" size="50.000000 23.018867" />
+  </Tracking>
+</QCARConfig>
